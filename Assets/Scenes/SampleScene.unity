@@ -205,7 +205,7 @@ PrefabInstance:
     - target: {fileID: 21200000, guid: 1355a58c3bd9c40679bea54b926e0179, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 0f33ce8f8589fe74191b722d17ef2df9, type: 3}
+      objectReference: {fileID: 21300000, guid: b11226c7583b56b42b49a3dbe1b41d81, type: 3}
     - target: {fileID: 21200000, guid: 1355a58c3bd9c40679bea54b926e0179, type: 3}
       propertyPath: m_SortingLayer
       value: 1
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b955e6fbea6d28d44862a5ceaac3a56d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cubePrefab: {fileID: 6278713623289893766, guid: 7f79e0c8ab47bcd418d1e733f9fb1f23, type: 3}
+  cubePrefab: {fileID: 621599373357829645, guid: a211633ea3b94234dbb0b7fb431d4475, type: 3}
 --- !u!4 &158245468
 Transform:
   m_ObjectHideFlags: 0
@@ -276,7 +276,7 @@ GameObject:
   - component: {fileID: 300990424}
   - component: {fileID: 300990423}
   m_Layer: 6
-  m_Name: ao (1)
+  m_Name: ao 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -865,7 +865,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8aea38e9d80dd7d4ca843c3d6fc3df20, type: 3}
+  m_audioClip: {fileID: 8300000, guid: a318d7ccd4463aa44a110731885103d9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.4
   m_Pitch: 1
